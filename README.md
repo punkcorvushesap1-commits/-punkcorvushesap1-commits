@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://dev.tr" target="_blank">
-    <img src="https://img.shields.io/badge/Website-cete312.hack.tr-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00FF00" alt="Website" />
+    <img src="https://img.shields.io/badge/Website-cete312.gng.tr-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00FF00" alt="Website" />
   </a>
   <img src="https://img.shields.io/badge/Location-Ankara_%2F_TURKEY-0D1117?style=for-the-badge&logo=googlemaps&logoColor=00FF00" alt="Location" />
   <img src="https://img.shields.io/badge/Company-Uslukılıç_Yazılım-0D1117?style=for-the-badge&logo=github&logoColor=00FF00" alt="Company" />
