@@ -1,54 +1,72 @@
+<!-- Başlık Banner (Hareketli Matris/Terminal Efekti) -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=System.out.println(%22Hello+World!%22);$developer+=+%22Yunus%22;Full+Stack+Engineer;Building+scalable+solutions" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <a href="https://yunus.dev.tr" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Website-yunus.dev.tr-090909?style=for-the-badge&logo=googlechrome&logoColor=47A248" alt="Website" />
+  </a>
+  <img src="https://img.shields.io/badge/📍_Location-Ankara_/_TURKEY-090909?style=for-the-badge&logo=googlemaps&logoColor=EA4335" alt="Location" />
+  <img src="https://img.shields.io/badge/🏢_Company-Uslukılıç_Yazılım-090909?style=for-the-badge&logo=organization&logoColor=FCA121" alt="Company" />
+</p>
+
+---
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ Hakkımda / About Me</h3>
+      <ul>
+        <li>🚀 Yüksek performans hedefli sistemler tasarlıyorum.</li>
+        <li>🧠 Yeni mimariler (Microservices, Cloud , AI Agent/MCP) üzerinde çalışıyorum.</li>
+        <li>💡 Sadece kod yazmıyorum, aynı zamanda tasarım ve donanımsal çözümlerler ile ilgileniyorum.</li>
+        <li>🎯 Hedefim: <i>"Sade ve şık uygulamalar üretmek"</i></li>
+      </ul>
+      <br>
+      <p align="center">
+        <img src="https://komarev.com/ghpvc/?username=punkcorvushesap1-commits&label=PORTFOLYO+ZİYARETÇİSİ&color=00FF00&style=for-the-badge" alt="Views" />
+      </p>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h3>💻 Teknoloji Cephaneliğim</h3>
+      <p><b>» Backend & Mimari</b></p>
+      <code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#"></code>
+      <code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java"></code>
+      <code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"></code>
+      <code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP"></code>
+      <code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js"></code>
+      <br><br>
+      <p><b>» Frontend & Veritabanı</b></p>
+      <code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5"></code>
+      <code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="SQL / MySQL"></code>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 Performans & Aktivite Metrikleri
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Merhaba,+Ben+Yunus!+👋;Yazılım+Geliştirici;Uslukılıç+Yazılım;Kodluyorum,+Öğreniyorum..."/>
+  <!-- Neon yeşili / Hacker temalı istatistikler -->
+  <a href="https://github.com/punkcorvushesap1-commits">
+    <img src="https://github-readme-stats.vercel.app/api?username=punkcorvushesap1-commits&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00" width="48%" />
+  </a>
+  <a href="https://github.com/punkcorvushesap1-commits">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=punkcorvushesap1-commits&theme=radical&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" width="48%" />
+  </a>
 </div>
 
-<p align="center">
-  <a href="https://yunus.dev.tr"><img src="https://img.shields.io/badge/Web_Sitem-0E75B6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Ankara_/_Türkiye-4CAF50?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Uslukılıç_Yazılım-FF5722?style=for-the-badge&logo=code-igniter&logoColor=white" alt="Company"/></a>
-</p>
-
----
-
-### 👨‍💻 Hakkımda
-
-Yazılım geliştirme süreçlerine tutkuyla bağlı, sürekli kendini yenileyen ve modern teknolojileri yakından takip eden bir geliştiriciyim. Temiz, sürdürülebilir ve ölçeklenebilir kod yazmayı ilke ediniyorum.
-
-- 🔭 Şu an **Uslukılıç Yazılım** bünyesinde projeler geliştiriyorum.
-- 🌱 Mimari desenler, performans optimizasyonu ve yeni teknolojiler üzerine araştırmalar yapıyorum.
-- 💬 **Web geliştirme, veritabanı yönetimi ve backend mimarileri** hakkında tartışmayı çok severim.
-- ⚡ Eğlenceli gerçek: Karmaşık bir bug'ı (hatayı) çözerken kahve tüketimim logaritmik olarak artıyor. ☕
-
----
-
-### 🛠️ Teknoloji Yığınım (Tech Stack)
-
-<details open>
-<summary><b>💻 Diller ve Veritabanı</b></summary>
 <br>
-<p align="center">
-  <a href="https://php.net" target="_blank"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" /></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" /></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" /></a>
-</p>
-</details>
 
----
+<div align="center">
+  <a href="https://github.com/punkcorvushesap1-commits">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=punkcorvushesap1-commits&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00" width="400" />
+  </a>
+</div>
 
-### 📈 GitHub İstatistiklerim & Aktivitelerim
-
+<!-- Alt kısma ince bir hacker gif detayı -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=punkcorvushesap1-commits&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=0E75B6&icon_color=0E75B6" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=punkcorvushesap1-commits&theme=tokyonight&hide_border=true&background=0D1117&ring=0E75B6&fire=0E75B6&currStreakLabel=0E75B6" width="48%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=punkcorvushesap1-commits&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0E75B6" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=punkcorvushesap1-commits&label=Profil+Görüntülenme&color=0e75b6&style=flat-square" alt="Görüntülenme" />
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61faa5d93c2fa82b41a/bottom_header.svg" />
 </p>
